@@ -148,9 +148,9 @@ To integrate with a backend service, replace the form submission logic in the `h
 **Serene Touch Care Services**
 
 - 📍 59 Alers Road, Bexleyheath, DA6 8HR
-- 📞 03301336439
-- 📧 info@serenetouchcareservices.com
-- 🌐 www.serenetouchcareservices.com
+- 📞 0000000000
+- 📧 info@serenetouchcareservices.co.uk
+- 🌐 www.serenetouchcareservices.co.uk
 
 ## Social Media
 
